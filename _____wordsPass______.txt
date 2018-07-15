@@ -14,3 +14,6 @@ ka2
 xilinx
 gasper_zakelj
 kal232. #req special character
+
+BIKE
+2320

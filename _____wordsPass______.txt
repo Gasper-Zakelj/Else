@@ -15,6 +15,9 @@ e fe
 gz7539@student.uni-lj.si
 ka2
 
+Honeywell.csod
+kal232. #spec char
+
 xilinx
 gasper_zakelj
 kal232. #req special character

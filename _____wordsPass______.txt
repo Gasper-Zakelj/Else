@@ -24,3 +24,6 @@ kal232. #req special character
 
 BIKE
 2320
+
+n29
+Ka32

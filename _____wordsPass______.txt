@@ -17,6 +17,10 @@ ka2
 Honeywell.csod
 kal232. #spec char
 
+intel
+<email>
+kal232.
+
 xilinx
 gasper_zakelj
 kal232. #req special character

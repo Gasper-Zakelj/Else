@@ -17,10 +17,14 @@ e fe
 gz7539@student.uni-lj.si
 ka2
 
-Honeywell.csod
+stea khm m
+beu
+ka2
+
+Honeywel.csod
 kal232. #spec char
 
-intel
+inte
 <email>
 kal232.
 
@@ -33,3 +37,4 @@ BIKE
 
 n29
 Ka32
+
